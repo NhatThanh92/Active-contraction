@@ -7,7 +7,7 @@ Mooney-Rivlin hyperelastic model in nonlinear finite element analysis
 
 ![image](https://github.com/user-attachments/assets/50e50848-bb85-48f5-ac50-a2886689073e)
 
-**Figure 2. Diagram depicting a multi-layered uterus model of the female reproductive system, including a fetus (a). Different Active Scale Factor (Ct) and Bulk Modulus (K) in MPa are individually applied to each layer, spanning from L1 to L7 (b).**
+**Figure 2. Diagram depicting a multi-layered uterus model of the female reproductive system, including a fetus (a). Different Active Scale Factor (Ct) and Bulk Modulus (K) in MPa are individually applied to each layer, spanning from L1 to L5 (active layers); L6 to L7 (passive layers) (b).**
 
 ![image](https://github.com/user-attachments/assets/f1b73491-fa47-4421-8daf-6a253cfe0169)
 
