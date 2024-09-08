@@ -16,12 +16,20 @@ Mooney-Rivlin hyperelastic model in nonlinear finite element analysis
 
 ![image](https://github.com/NhatThanh92/Active-contraction/assets/51020597/f2d6d48b-e1f2-467f-af86-a00d42d79979)
 
+![image](https://github.com/user-attachments/assets/4e2f5c8e-4c24-45ca-b40e-0c2034de0d43)
+
+**Fig 4. Evolution of the maximum principal stress (S1) distribution (MPa) at various time points throughout the uterine contraction during the vaginal delivery simulation.**
 
 ![disp-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/6e3c5163-b953-405f-a1f8-de86772b2700)
 
+![image](https://github.com/user-attachments/assets/4b7dabf9-b580-4725-8ebd-3353c4dcea17)
+
+**Fig 6. Displacement evolution of six elements on the three planes (Sagittal, Coronal, and Transverse) of the uterus during simulation (a) and the trajectory tracking of the superior/inferior elements on a longitudinally reduced uterine model (b).**
+
 ![image](https://github.com/user-attachments/assets/934bdb09-187b-4ae7-80a2-6befd5448ef6)
 
-**Fig. 15  The fetal head behavior from MRI (a) and simulation (b) during the second stage of labor.**
+**Fig 7.  The fetal head behavior from MRI (a) and simulation (b) during the second stage of labor.**
 
+![image](https://github.com/user-attachments/assets/33a14c5c-c663-4367-8d59-74c08a540ae8)
 
-
+**Figure 8. Evolution of the flexion angle over time obtained from the angle of three points (depicted on the left) in FE simulation with the uterine contraction.**
