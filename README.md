@@ -14,8 +14,6 @@ Mooney-Rivlin hyperelastic model in nonlinear finite element analysis
 **Fig 3. Illustrations of the Node 503 at the apex of fetal head for FE simulation (a); multi-frames extraction from video MRI (b); segments in 3D slicer (c).**
 ## 2. Simulation results
 
-![image](https://github.com/NhatThanh92/Active-contraction/assets/51020597/f2d6d48b-e1f2-467f-af86-a00d42d79979)
-
 ![image](https://github.com/user-attachments/assets/4e2f5c8e-4c24-45ca-b40e-0c2034de0d43)
 
 **Fig 4. Evolution of the maximum principal stress (S1) distribution (MPa) at various time points throughout the uterine contraction during the vaginal delivery simulation.**
@@ -37,5 +35,6 @@ Mooney-Rivlin hyperelastic model in nonlinear finite element analysis
 **Figure 8. Evolution of the flexion angle over time obtained from the angle of three points (depicted on the left) in FE simulation with the uterine contraction.**
 # References:
 [1] TNT Nguyen, A Ballit, M Ferrandini, JB Colliat, TT Dao (2024) Fetus descent simulation with the active uterine contraction during the vaginal delivery: MRI-based evaluation and uncertainty quantification. Computer Methods in Biomechanics and Biomedical Engineering (Accepted).
+
 [2] TNT Nguyen, A Ballit, P Lecomte-Grosbras, JB Colliat, TT Dao (2024) On the uncertainty quantification of the active uterine contraction during the second stage of labor simulation. Medical & Biological Engineering & Computing 62(7): 2145–2164. http://dx.doi.org/10.1007/s11517-024-03059-2 
 
