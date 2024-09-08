@@ -34,7 +34,7 @@ Mooney-Rivlin hyperelastic model in nonlinear finite element analysis
 
 **Figure 8. Evolution of the flexion angle over time obtained from the angle of three points (depicted on the left) in FE simulation with the uterine contraction.**
 # References:
-[1] TNT Nguyen, A Ballit, M Ferrandini, JB Colliat, TT Dao (2024) Fetus descent simulation with the active uterine contraction during the vaginal delivery: MRI-based evaluation and uncertainty quantification. Computer Methods in Biomechanics and Biomedical Engineering (Accepted).
+[1] TNT Nguyen, A Ballit, M Ferrandini, JB Colliat, TT Dao (2024) Fetus descent simulation with the active uterine contraction during the vaginal delivery: MRI-based evaluation and uncertainty quantification. Computer Methods in Biomechanics and Biomedical Engineering. (**Accepted**)
 
 [2] TNT Nguyen, A Ballit, P Lecomte-Grosbras, JB Colliat, TT Dao (2024) On the uncertainty quantification of the active uterine contraction during the second stage of labor simulation. Medical & Biological Engineering & Computing 62(7): 2145–2164. http://dx.doi.org/10.1007/s11517-024-03059-2 
 
