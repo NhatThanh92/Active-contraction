@@ -1,4 +1,4 @@
-# Active-contraction
+# Fetus descent simulation with the active uterine contraction during the vaginal delivery: MRI-based evaluation 
 Mooney-Rivlin hyperelastic model in nonlinear finite element analysis
 
 ![image](https://github.com/user-attachments/assets/6dadad9c-4838-4b53-b047-da1d02585bf1)
@@ -22,6 +22,8 @@ Mooney-Rivlin hyperelastic model in nonlinear finite element analysis
 
 ![disp-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/6e3c5163-b953-405f-a1f8-de86772b2700)
 
+**Fig 5. Simulation of the second stage of labor under active and passive uterine contractions.**
+
 ![image](https://github.com/user-attachments/assets/4b7dabf9-b580-4725-8ebd-3353c4dcea17)
 
 **Fig 6. Displacement evolution of six elements on the three planes (Sagittal, Coronal, and Transverse) of the uterus during simulation (a) and the trajectory tracking of the superior/inferior elements on a longitudinally reduced uterine model (b).**
@@ -33,3 +35,7 @@ Mooney-Rivlin hyperelastic model in nonlinear finite element analysis
 ![image](https://github.com/user-attachments/assets/33a14c5c-c663-4367-8d59-74c08a540ae8)
 
 **Figure 8. Evolution of the flexion angle over time obtained from the angle of three points (depicted on the left) in FE simulation with the uterine contraction.**
+# References:
+[1] TNT Nguyen, A Ballit, M Ferrandini, JB Colliat, TT Dao (2024) Fetus descent simulation with the active uterine contraction during the vaginal delivery: MRI-based evaluation and uncertainty quantification. Computer Methods in Biomechanics and Biomedical Engineering (Accepted).
+[2] TNT Nguyen, A Ballit, P Lecomte-Grosbras, JB Colliat, TT Dao (2024) On the uncertainty quantification of the active uterine contraction during the second stage of labor simulation. Medical & Biological Engineering & Computing 62(7): 2145–2164. http://dx.doi.org/10.1007/s11517-024-03059-2 
+
