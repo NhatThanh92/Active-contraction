@@ -1,4 +1,5 @@
 # Fetus descent simulation with the active uterine contraction during the vaginal delivery: MRI-based evaluation 
+This project aims to replicate the second stage of labor under both active and passive uterine contractions. It involves modeling pelvic soft tissues with transversally isotropic Mooney-Rivlin material properties in FEBio, an open-source nonlinear finite element software. Simulation outcomes are validated using MRI-based data processed with 3D Slicer. The results showed that fetal descent behavior is consistent with MRI-based observations.
 ## 1. Mooney-Rivlin hyperelastic model in nonlinear finite element analysis
 
 ![image](https://github.com/user-attachments/assets/6dadad9c-4838-4b53-b047-da1d02585bf1)
