@@ -1,5 +1,5 @@
 # Fetus descent simulation with the active uterine contraction during the vaginal delivery: MRI-based evaluation 
-**1. Mooney-Rivlin hyperelastic model in nonlinear finite element analysis**
+## 1. Mooney-Rivlin hyperelastic model in nonlinear finite element analysis
 
 ![image](https://github.com/user-attachments/assets/6dadad9c-4838-4b53-b047-da1d02585bf1)
 
