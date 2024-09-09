@@ -25,7 +25,7 @@ This project aims to replicate the second stage of labor under both active and p
 
 ![image](https://github.com/user-attachments/assets/4b7dabf9-b580-4725-8ebd-3353c4dcea17)
 
-**Fig 6. Displacement evolution of six elements on the three planes (Sagittal, Coronal, and Transverse) of the uterus during simulation (a) and the trajectory tracking of the superior/inferior elements on a longitudinally reduced uterine model (b).**
+**Fig 6. The trajectory tracking of the superior/inferior elements on a longitudinally reduced uterine model.**
 
 ![image](https://github.com/user-attachments/assets/934bdb09-187b-4ae7-80a2-6befd5448ef6)
 
